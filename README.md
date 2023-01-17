@@ -1,4 +1,10 @@
 
+# website live url
+
+https://sloovi-task-manager1.netlify.app/
+
+
+
 
 # Getting Started with Create React App
 
