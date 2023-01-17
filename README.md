@@ -1,0 +1,1 @@
+This project is all about the CRUD operations using the Redux approach, I consumed endpoints from a specific API and displayed info that was available to use to create task, edit task, edit specific task, get task, edit task and delete task, I used tailwindcss for the styling.
